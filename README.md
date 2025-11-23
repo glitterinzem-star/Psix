@@ -1,1 +1,1 @@
-DELETE TbI LOX BLAT
+delete 
